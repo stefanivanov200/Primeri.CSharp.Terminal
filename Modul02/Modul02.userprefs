@@ -1,12 +1,25 @@
-﻿<Properties StartupItem="Modul02\Modul02.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Modul02\Program.cs">
+﻿<Properties StartupItem="ReadFromCommandLine\ReadFromCommandLine.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadFromCommandLine\Program.cs">
     <Files>
-      <File FileName="Modul02\Program.cs" Line="33" Column="26" />
+      <File FileName="Modul02\Program.cs" Line="23" Column="60" />
+      <File FileName="ReadFromCommandLine\Program.cs" Line="16" Column="23" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Modul02" expanded="True">
+            <Node name="ReadFromCommandLine" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="D:\CSharp\Primeri.CSharp.Terminal\Modul02\Modul02\Program.cs" line="11" column="1" />
+      <Breakpoint file="D:\CSharp\Primeri.CSharp.Terminal\Modul02\Modul02\Program.cs" line="13" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
