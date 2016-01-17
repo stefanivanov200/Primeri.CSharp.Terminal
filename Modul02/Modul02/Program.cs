@@ -10,12 +10,23 @@ namespace Modul02
 			int a = 0, b = 0;
 			int sum = 0;
 
+
 			// Събиране на числа
 			a = 10;
 			b = 5;
 			sum = a + b;
+			// Данни за програмата
+			String program_name = "Модул 02 примери";
+			String program_version = "1.0";
+
+			Console.WriteLine (program_name);
+			Console.WriteLine ("Версия: " + program_version + "\n\n");
+
 
 			// Писане в конзола
+
+			Console.WriteLine (a+"+" +b+ "=" +sum);	
+
 			Console.Write ( a ); Console.Write (" + "); Console.Write ( b );
 			Console.Write (" = "); 
 			Console.WriteLine ( sum );   
@@ -36,8 +47,8 @@ namespace Modul02
 			a++;                      		//a=a+1. a=51
 			Console.WriteLine (a);
 
-			Console.WriteLine ("делене на цели числа" + ( 7 / 3 ).ToString ());   //целочислен резултат      
-			Console.WriteLine ("целочислен остатък" + ( 7 % 3 ).ToString ());   //целочислен остатък
+			Console.WriteLine ("делене на цели числа  " + ( 7 / 3 ).ToString ());   //целочислен резултат      
+			Console.WriteLine ("целочислен остатък    " + ( 7 % 3 ).ToString ());   //целочислен остатък
 
 		}
 	}
