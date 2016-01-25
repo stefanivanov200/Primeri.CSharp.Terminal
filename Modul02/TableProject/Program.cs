@@ -4,18 +4,22 @@ namespace TableProject
 {
 	class MainClass
 	{
+		enum ti {ime=0, famil, godin};
+
 		public static void Main (string[] args)
 		{
 			//Дефиниране на таблица
 			string[,] table = new string[2, 3];
 
 			//Въвеждане на първи и втори ред
-			table [0,0]="Stefan"; table[0,1]="Ivanov"; table[0,2]="31";
-			table [1,0]="Ivan"; table[1,1]="Stefanov"; table[1,2]="41";
+			table [0, (int) ti.ime]="Stefan"; table[0,(int) ti.famil]="Ivanov";   table[0,(int) ti.godin]="31";
+			table [1, (int) ti.ime]="Ivan";   table[1,(int) ti.famil]="Stefanov"; table[1,(int) ti.godin]="41";
 
 			Console.Write ("Кой ред искате да видите? ");
 			int _index = Convert.ToInt32    (Console.ReadLine ())-1; 
-			Console.WriteLine ((table[_index,0])[0] + ". " + table[_index,1] + ", " + table[_index,2] + " г.");
+			Console.WriteLine ((table[_index,(int) ti.ime])[0] + 
+				". " + table[_index,(int) ti.famil] +
+				", " + table[_index,(int) ti.godin] + " г.");
 		
 
 
