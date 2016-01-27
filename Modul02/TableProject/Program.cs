@@ -21,6 +21,7 @@ namespace TableProject
 				". " + table[_index,(int) ti.famil] +
 				", " + table[_index,(int) ti.godin] + " г.");
 		
+			Console.ReadKey ();
 
 
 
