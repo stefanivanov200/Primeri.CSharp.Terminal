@@ -1,0 +1,5 @@
+D:\CSharp\Primeri.CSharp.Terminal\Modul03\BoolExplore\bin\Release\BoolExplore.exe
+D:\CSharp\Primeri.CSharp.Terminal\Modul03\BoolExplore\bin\Release\BoolExplore.pdb
+D:\CSharp\Primeri.CSharp.Terminal\Modul03\BoolExplore\obj\x86\Release\BoolExplore.csprojResolveAssemblyReference.cache
+D:\CSharp\Primeri.CSharp.Terminal\Modul03\BoolExplore\obj\x86\Release\BoolExplore.exe
+D:\CSharp\Primeri.CSharp.Terminal\Modul03\BoolExplore\obj\x86\Release\BoolExplore.pdb
