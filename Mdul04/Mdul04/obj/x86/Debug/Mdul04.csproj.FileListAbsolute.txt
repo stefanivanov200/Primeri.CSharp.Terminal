@@ -1,0 +1,5 @@
+D:\CSharp\Primeri.CSharp.Terminal\Mdul04\Mdul04\obj\x86\Debug\Mdul04.csprojResolveAssemblyReference.cache
+D:\CSharp\Primeri.CSharp.Terminal\Mdul04\Mdul04\bin\Debug\Mdul04.exe
+D:\CSharp\Primeri.CSharp.Terminal\Mdul04\Mdul04\bin\Debug\Mdul04.pdb
+D:\CSharp\Primeri.CSharp.Terminal\Mdul04\Mdul04\obj\x86\Debug\Mdul04.exe
+D:\CSharp\Primeri.CSharp.Terminal\Mdul04\Mdul04\obj\x86\Debug\Mdul04.pdb
