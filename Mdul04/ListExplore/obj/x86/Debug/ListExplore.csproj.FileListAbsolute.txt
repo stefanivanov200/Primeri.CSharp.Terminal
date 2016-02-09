@@ -1,0 +1,5 @@
+D:\CSharp\Primeri.CSharp.Terminal\Mdul04\ListExplore\obj\x86\Debug\ListExplore.csprojResolveAssemblyReference.cache
+D:\CSharp\Primeri.CSharp.Terminal\Mdul04\ListExplore\bin\Debug\ListExplore.exe
+D:\CSharp\Primeri.CSharp.Terminal\Mdul04\ListExplore\bin\Debug\ListExplore.pdb
+D:\CSharp\Primeri.CSharp.Terminal\Mdul04\ListExplore\obj\x86\Debug\ListExplore.exe
+D:\CSharp\Primeri.CSharp.Terminal\Mdul04\ListExplore\obj\x86\Debug\ListExplore.pdb
