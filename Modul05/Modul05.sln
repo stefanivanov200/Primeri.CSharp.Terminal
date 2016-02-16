@@ -3,12 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul05", "Modul05\Modul05.csproj", "{C99E65B0-7E89-4C67-977E-8A218CEF990D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExplorer", "ClassExplorer\ClassExplorer.csproj", "{B6684ED0-F254-4863-B95D-4594D866D7C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fact", "Fact\Fact.csproj", "{1EC4880E-9A4A-4876-8BDC-D73157E520DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC4880E-9A4A-4876-8BDC-D73157E520DC}.Debug|x86.ActiveCfg = Debug|x86
+		{1EC4880E-9A4A-4876-8BDC-D73157E520DC}.Debug|x86.Build.0 = Debug|x86
+		{1EC4880E-9A4A-4876-8BDC-D73157E520DC}.Release|x86.ActiveCfg = Release|x86
+		{1EC4880E-9A4A-4876-8BDC-D73157E520DC}.Release|x86.Build.0 = Release|x86
+		{B6684ED0-F254-4863-B95D-4594D866D7C0}.Debug|x86.ActiveCfg = Debug|x86
+		{B6684ED0-F254-4863-B95D-4594D866D7C0}.Debug|x86.Build.0 = Debug|x86
+		{B6684ED0-F254-4863-B95D-4594D866D7C0}.Release|x86.ActiveCfg = Release|x86
+		{B6684ED0-F254-4863-B95D-4594D866D7C0}.Release|x86.Build.0 = Release|x86
 		{C99E65B0-7E89-4C67-977E-8A218CEF990D}.Debug|x86.ActiveCfg = Debug|x86
 		{C99E65B0-7E89-4C67-977E-8A218CEF990D}.Debug|x86.Build.0 = Debug|x86
 		{C99E65B0-7E89-4C67-977E-8A218CEF990D}.Release|x86.ActiveCfg = Release|x86

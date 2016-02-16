@@ -1,0 +1,5 @@
+D:\CSharp\Primeri.CSharp.Terminal\Modul05\Fact\obj\x86\Release\Fact.csprojResolveAssemblyReference.cache
+D:\CSharp\Primeri.CSharp.Terminal\Modul05\Fact\bin\Release\Fact.exe
+D:\CSharp\Primeri.CSharp.Terminal\Modul05\Fact\bin\Release\Fact.pdb
+D:\CSharp\Primeri.CSharp.Terminal\Modul05\Fact\obj\x86\Release\Fact.exe
+D:\CSharp\Primeri.CSharp.Terminal\Modul05\Fact\obj\x86\Release\Fact.pdb
